@@ -1,0 +1,10 @@
+Enter your number 1: Number is even
+
+
+checking for positive / negative / zero 
+RESULT: Number is positive
+
+enters numbers to sum: 51
+enters numbers to subs: -1
+enters numbers to multiplication: 650
+enters numbers to division: 0
