@@ -1,1 +1,5 @@
 enter a binary number 
+displaying your binary number
+010
+displaying your binary number
+101

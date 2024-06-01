@@ -1,0 +1,5 @@
+the value of a is 3
+the value of b is 2
+the value of c is 5
+the value of d is 12
+the value of e is 23

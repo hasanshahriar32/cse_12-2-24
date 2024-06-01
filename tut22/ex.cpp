@@ -7,9 +7,9 @@ class binary
 
 public:
     void read(void);
-    void display(void);
     void chk_bin(void);
     void ones_com(void);
+    void display(void);
 };
 void binary ::read(void)
 {
@@ -35,7 +35,7 @@ void binary ::ones_com(void)
         {
             s.at(i) = '1';
         }
-        if (s.at(i) == '1')
+        else
         {
             s.at(i) = '0';
         }
@@ -43,10 +43,12 @@ void binary ::ones_com(void)
 };
 void binary ::display(void)
 {
-    for (int i; i < s.length(); i++)
+    cout << "displaying your binary number" << endl;
+    for (int i = 0; i < s.length(); i++)
     {
         cout << s.at(i);
     }
+    cout << endl;
 };
 int main()
 {

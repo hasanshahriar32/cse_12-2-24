@@ -1,0 +1,9 @@
+enter id of your item (no_1): 10
+enter price of your item: 156
+
+enter id of your item (no_2): 112
+enter price of your item: 156
+
+-----result-----
+the price with the item with id (10) is: 156
+the price with the item with id (112) is: 156

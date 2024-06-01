@@ -1,0 +1,12 @@
+enter the id of employee no:0
+the id of this employee is: 1
+current value of member is 1.
+
+enter the id of employee no:1
+the id of this employee is: 5
+current value of member is 2.
+
+enter the id of employee no:2
+the id of this employee is: 9
+current value of member is 3.
+
