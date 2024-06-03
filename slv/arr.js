@@ -5,6 +5,6 @@ function make_avg(arr, count) {
   for (i = 0; i < count; i++) {
     sum = sum + arr[i];
   }
-  return sum;
+  return (sum/ count);
 }
 console.log(make_avg(arr, count));
